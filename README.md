@@ -1,7 +1,7 @@
 # homeAutomation
 <snippet>
-  <content><![CDATA[
-# ${1:HOME AUTOMATION}
+  <content>
+# 1:HOME AUTOMATION
 
 TODO: Home Atomation Controls the home appliances like lights on/off, fan speed control, TV and many more things.
 
@@ -25,7 +25,7 @@ TODO: Copy the code into your desired directory and run it in Arduino IDE.Remove
 
 ## Usage
 
-TODO: Change the Hex Code for remote acoordingly, mine is given in "Remote_hex.txt" file. Connect everythings in circuit as given in Image and you are good to go.
+TODO: Change the Hex Code for remote acoordingly, mine is given in "Remote_hex.txt" file.<br />Connect everythings in circuit as given in Image and you are good to go.
 
 ## Contributing
 1. Fork it!
@@ -40,14 +40,15 @@ TODO: Home Automation version 1.0
 
 ## Credits
 
-TODO: AUTHOR: DIVYESH HINGRAJIYA
-EMAIL:DIVYESH636ATU2B@GMAIL.COM
-GITHUB:github.com/DivPatel
+AUTHOR: DIVYESH HINGRAJIYA<br />
+EMAIL:DIVYESH636ATU2B@GMAIL.COM<br />
+GITHUB:github.com/DivPatel<br />
 LINKEDIN:in.linkedin.com/in/divyesh-hingrajiya-373131122
 
 ## License
 
-TODO: Free
-]]></content>
-  <tabTrigger>readme</tabTrigger>
+	Free
+
+></content>
+  <tabTrigger></tabTrigger>
 </snippet>
