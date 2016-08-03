@@ -1,7 +1,6 @@
-# homeAutomation
 <snippet>
   <content>
-# 1:HOME AUTOMATION
+# HOME AUTOMATION
 
 TODO: Home Atomation Controls the home appliances like lights on/off, fan speed control, TV and many more things.
 
@@ -34,14 +33,14 @@ TODO: Change the Hex Code for remote acoordingly, mine is given in "Remote_hex.t
 4. Push to your branch: `git push origin my-new-feature`
 5. Submit a pull request
 
-## History
+## History/Versions
 
-TODO: Home Automation version 1.0
+Home Automation version 1.0
 
 ## Credits
 
-AUTHOR: DIVYESH HINGRAJIYA<br />
-EMAIL:DIVYESH636ATU2B@GMAIL.COM<br />
+**AUTHOR:DIVYESH HINGRAJIYA**<br />
+*EMAIL:divyesh636atu2b@gmail.com*<br />
 GITHUB:github.com/DivPatel<br />
 LINKEDIN:in.linkedin.com/in/divyesh-hingrajiya-373131122
 
