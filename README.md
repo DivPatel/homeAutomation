@@ -28,7 +28,10 @@ Change the Hex Code for remote acoordingly, mine is given in "Remote_hex.txt" fi
 
 ##Screenshot
 ![circuit](https://cloud.githubusercontent.com/assets/10097431/17373248/f71e5ea8-59c4-11e6-9002-41eb0f524e73.jpg)
-Circuit Diagram<br />
+Circuit Diagram
+
+![ha](https://cloud.githubusercontent.com/assets/10097431/17373247/f71e1ede-59c4-11e6-8d86-99555ece7012.jpg)
+Working Model
 
 ## Contributing
 
