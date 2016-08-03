@@ -1,0 +1,26 @@
+1FE48B7-red turn off button
+1FE58A7-Mode button
+1FE7887-Mute button
+1FE807F-Pause/Play button
+1FE40BF- Backward Button
+1FEC03F-foreward button
+1FE20DF-EQ button
+1FEA05F-Volume --
+1FE609F-Volume ++
+1FEE01F-Zero
+
+
+
+
+
+
+
+1FE50AF-1-R
+1FED827-2-G
+1FEF807-3-B
+1FE30CF-4
+1FEB04F-5
+1FE708F-6
+1FE00FF-7
+1FEF00F-8
+1FE9867-9
