@@ -26,10 +26,6 @@ Copy the code into any directory and run it in Arduino IDE.<br />Remove "RobotIR
 
 Change the Hex Code for remote acoordingly, mine is given in "Remote_hex.txt" file.<br />Connect everythings in circuit as given in Image and you are good to go.
 
-##Screenshot
-![HomeAimage](/img/ha.jpg?raw=true "Working Model")
-![CircuitDiagram](/img/circuit.jpg?raw=true "Circuit Diagram")
-
 ## Contributing
 
 1. Fork it!
