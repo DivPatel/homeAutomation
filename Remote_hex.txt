@@ -1,3 +1,5 @@
+Remote controller's buttons hex code
+
 1FE48B7-red turn off button
 1FE58A7-Mode button
 1FE7887-Mute button
